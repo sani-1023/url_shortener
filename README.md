@@ -3,4 +3,4 @@ It is a simple URL shortener web application built with the help of ReactJS. Her
 
 
 
-Live link of the project: link
+Live link of the project:[Link] (https://simple-urlshortener.netlify.app/)
